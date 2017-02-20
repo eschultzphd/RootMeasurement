@@ -15,4 +15,6 @@ Wave density (WD):              Number of root bends per mm
 Angle (B):                      Angle from start point to end point
 Horizontal growth index (HGI):  How far horizontally the root grows
 
+Also, I had a request for root tip angle to be included, so I wrote a separate script (AutoRun_Tips_Proto) that also calculates the angle from the 5th-from-the-last point to the final point in each trace.  Fifth-from-the-last point may not be the right distance, so please use with caution, and let me know your comments.
+
 Thank you for using the RootMeasurement R scripts, in conjunction with JFilament and ImageJ.
